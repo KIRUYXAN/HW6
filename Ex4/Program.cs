@@ -1,3 +1,2 @@
-﻿/*Считайте файл различными способами. Смотрите “Пример записи файла различными способами”.
-Создайте методы, которые возвращают массив byte (FileStream, BufferedStream),
-строку для StreamReader и массив int для BinaryReader.*/
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
